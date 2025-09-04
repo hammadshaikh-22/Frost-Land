@@ -1,0 +1,6 @@
+.butn:hover{
+    background-color: #ffffff;
+    color: black;
+    transform: translateY(-5px);
+    transition: ease-in-out 0.2s;
+}
